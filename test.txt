@@ -1,1 +1,2 @@
 "To je testna vsebina" 
+"<mal daljsa datoteka no space na disku" 
